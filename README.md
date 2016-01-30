@@ -1,2 +1,4 @@
 # Calorie-Counter
 A Streamlined Calorie Counter
+
+Obesity is one of the key social issues ravaging America. 2 in 3 adults classify as "Overweight" or "Obese" and 1 in 3 fully classify as "Obese", resulting in taxing and debilitating health problems. As much of a proponent for exercise and a healthy lifestyle as I am, I know by far the most effective weight to lose weight is to simply cut down on the amount of calories one intakes. Of course there are calorie counters that exist out there, but they can quickly lose users in their complexity. The goal here with this calorie counter is not to get people to be rationing their crackers, crumb by crumb, but to simply and efficiently educate users on the what is their calorie intake daily and what approximately do they have to cut to reach a healthy lifestlye.
